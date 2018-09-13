@@ -50,7 +50,11 @@ class App:
         self._display_surf = None  # window
         self.clock = None  # game clock
         self.size = self.width, self.height = 720, 1280
+<<<<<<< HEAD
         self.fps = 60
+=======
+        self.fps = 120
+>>>>>>> 7445b614443b3f0b3b48bef51c307edebabfb6bf
 
         self.myBlock = None
 
